@@ -1,6 +1,5 @@
 <a align="center">
-[![mona-whisper cat]
-(https://github.com/reinca97/reinca97/raw/master/assets/mona-whisper.git)](https://github.com/reinca97)
+[![mona-whisper cat](https://github.com/reinca97/reinca97/raw/master/assets/mona-whisper.git)](https://github.com/reinca97)
 </a>
 <hr/>
 <div align="center">Hi there 👋</div>
