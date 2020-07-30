@@ -3,7 +3,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | | | | | | ✨| | | | | |
 | | | | | ✨|  | ✨| | | | |
-| | | |✨| |[![mona-whisper cat](./assets/mona-whisper.gif)](https://github.com/reinca97) | | ✨| | | |
+| | | |✨| |[![mona-whisper cat](https://github.com/reinca97/reinca97/raw/master/assets/mona-whisper.gif)](https://github.com/reinca97) | | ✨| | | |
 | | | | | | ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ | | | | | |
 | | | | | | ✨ **reinca97's repository** ✨ | | | | | |
 | | | | | | ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ | | | | | |
